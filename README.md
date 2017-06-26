@@ -13,6 +13,8 @@
 
 - [Amibroker Turotial](#amibroker-turotial)
 
+- [Qauntitative Trading](#quantitative-trading)
+
 [Ebook](#ebook)
 
 [Cway Website](http://www.cwayinvestment.com)
