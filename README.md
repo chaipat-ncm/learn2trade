@@ -1,4 +1,26 @@
 # Learn to trade
+แหล่งความรู้ สำหรับเทรดเดอร์ เพื่อพัฒนาทักษะและเพิ่มพูนความรู้ด้านการเก็งกำไร
+
+- [Mindset](#mindset)
+
+- [Trading Psychology](#trading-psychology)
+
+- [Technical Analysis](#technical-analysis)
+
+- [Money Management](#money-management)
+
+- [Trading System](#trading-system)
+
+- [Amibroker Turotial](#amibroker-turotial)
+
+- [Ebook](#ebook)
+
+- [Cway Website](http://www.cwayinvestment.com)
+
+- [Qaunt Lab](http://cway-quantlab.blogspot.com/)
+
+- [Youtube Channel](https://www.youtube.com/channel/UCSzLnfQqC-nBs6u1FMz_X0Q)
+
 -------------------------------------
 Trading Psychology
 -------------------------------------
