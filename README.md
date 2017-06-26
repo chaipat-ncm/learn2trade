@@ -26,13 +26,14 @@ Trading Psychology
 -------------------------------------
 
 - จิตวิทยาว่าด้วยการขาดทุน
-https://youtu.be/t__kJahlBkA
+https://youtu.be/t__kJahlBkA&t=1s
 
 - การรับมือกับความผิดพลาด
 https://youtu.be/5RYm-WXoNR0
 
 - อารมณ์และการตัดสินใจ
 https://youtu.be/2B92916UFJg
+
 - อคติ(Bias)
 https://youtu.be/T1ar1lY2p5I
 
@@ -62,6 +63,13 @@ https://youtu.be/IsPHmG3ycpo
 
 - Navy SEAL & 40 Percent Rule
 https://youtu.be/5YW2kAbTbgI
+
+- Emotional Support
+https://youtu.be/-OEBAYvU_38
+
+- ความเจ็บปวดจากการขาดทุน
+https://youtu.be/JNW8dN-_ZZc
+
 
 -------------------------------------
 Mindset
@@ -194,6 +202,19 @@ https://youtu.be/8e6kZW1g3S0
 
 - Tactical & Technical Analysis
 https://youtu.be/BKTn96c51ls
+
+- เทรดกราฟเปล่าด้วย Camarilla pivot point 
+https://youtu.be/cu96E5P2s_s
+
+- Market Analysis for Trader
+https://youtu.be/gONS-QshmWQ
+
+- Money Flow Index
+https://youtu.be/IViIbCgwCgk
+
+- Multiple Time Frame Analysis
+https://youtu.be/btQYdZJb1U8
+
 
 -------------------------------------
 Money Management
