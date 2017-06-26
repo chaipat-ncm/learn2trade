@@ -13,13 +13,13 @@
 
 - [Amibroker Turotial](#amibroker-turotial)
 
-- [Ebook](#ebook)
+[Ebook](#ebook)
 
-- [Cway Website](http://www.cwayinvestment.com)
+[Cway Website](http://www.cwayinvestment.com)
 
-- [Qaunt Lab](http://cway-quantlab.blogspot.com/)
+[Qaunt Lab](http://cway-quantlab.blogspot.com/)
 
-- [Youtube Channel](https://www.youtube.com/channel/UCSzLnfQqC-nBs6u1FMz_X0Q)
+[Youtube Channel](https://www.youtube.com/channel/UCSzLnfQqC-nBs6u1FMz_X0Q)
 
 -------------------------------------
 Trading Psychology
