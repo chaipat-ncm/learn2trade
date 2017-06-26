@@ -389,23 +389,23 @@ Ebook
 -------------------------------------
 - เรียนหุ้นจากหนัง 1 
 pwd: cwayinvestment2017
-https://goo.gl/f3X4hP
+https://goo.gl/6oQREG
 
 - เรียนหุ้นจากหนัง 2
 pwd: cwayinvestment2017
 https://goo.gl/n4Doyh
 
 - Trader's Journal 2013
-https://goo.gl/nq5JYm
+https://goo.gl/iiLHMm
 
 - Trader's Journal 2014
-https://goo.gl/W3V7pP
+https://goo.gl/nGaNPS
 
 - Trader's Journal 2015
-https://goo.gl/T5JMSp
+https://goo.gl/CjDZJu
 
 - Trader's Journal 2016
-https://goo.gl/4JZsVw
+https://goo.gl/KY7SwY
 
 
 
