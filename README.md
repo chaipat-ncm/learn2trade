@@ -173,3 +173,151 @@ https://youtu.be/8e6kZW1g3S0
 - Tactical & Technical Analysis
 https://youtu.be/BKTn96c51ls
 
+-------------------------------------
+Money Management
+-------------------------------------
+- How To use A Stop Loss
+https://youtu.be/OfGTPpqLylA
+
+- Risk Per Trade (size & shape)
+https://youtu.be/Ftv1QQMNM1M
+
+- consecutive loss
+https://youtu.be/A1uT_PVm6Yo
+
+- Risk&Recovery factor
+https://youtu.be/ig_vOnyweKw
+
+- Kelly Criterion Money management Tactic
+https://youtu.be/TjulXm7dcTs
+
+- How to reduce Drawdowns
+https://youtu.be/oONV8o9BMpw
+
+- Profit Pattern
+https://youtu.be/LUgopnU_Xy8
+
+- How to Use Trailing Stops
+https://youtu.be/XzVdzoTUCz4
+
+- Martingale (betting system)
+https://youtu.be/A4Lm7szSghk
+
+- Reverse Martingale
+https://youtu.be/UF-hijo_zEc
+
+- zone recovery tactic
+https://youtu.be/DX34jq9q7OQ
+
+- What Is Stop-Loss Hunting
+https://youtu.be/S6RCnnaMHko
+
+-------------------------------------
+Trading System
+-------------------------------------
+- Holy grail trading method
+https://youtu.be/sWeTs0TwFS8
+
+-  การออบแบบและพัฒนาระบบ
+https://youtu.be/1ya-x5np-ao
+
+-  การทดสอบและประเมินระบบ
+https://youtu.be/euXQzSXT0OE
+
+- Algorithmic trading
+https://youtu.be/jj5DOyqTREU
+
+- grid trading system
+https://youtu.be/rlUL0zuYE8o
+
+- Dynamic Grid Trading System
+https://youtu.be/ZPASg_wa6mA
+
+- Cascading Grid Strategies
+https://youtu.be/CWVQOL6cdSs
+
+- Spreadsheet for Data analysis
+https://youtu.be/mwUD4_lbTUw
+
+- Using Interactive Brokers API with python
+https://youtu.be/Ce02uIb3500
+
+- Analysis Trading Result win MAE&MFE
+https://youtu.be/ub0B9Ug9oqw
+
+- Recovery Factor(RF) monitor & analysis trading system
+https://youtu.be/BlBWGaR_cWw
+
+-------------------------------------
+Amibroker Turotial
+-------------------------------------
+
+- Install AmiBroker 6.0
+https://youtu.be/v1FJHqtpEB4
+
+- Setup Database
+https://youtu.be/-ibuJ-r7eMg
+
+- Import MT4 Data to Amibroker
+https://youtu.be/py4MB05z9UE
+
+- Create A Watchlist
+https://youtu.be/dy7agcpHlkM
+
+- Chart Theme & Configuration
+https://youtu.be/FQQA09XUrJ4
+
+- Layout & Window
+https://youtu.be/ZNGC5KnSYUU
+
+- Basic Chart
+https://youtu.be/G1_w2f4xhk4
+
+- Chart Analysis : Trend Line
+https://youtu.be/46JdhnAiUcs
+
+- Chart Analysis : Regression Channel
+https://youtu.be/7ac8l9Nq8bQ
+
+- Chart Analysis : Fibonacci Retracement
+https://youtu.be/NLm0LE_WBEE
+
+- Chart Analysis : Support & Resistance
+https://youtu.be/m3Qqu0Metn8
+
+- Basic Technical indicator
+https://youtu.be/Rz7Csxjzae0
+
+- Custom Indicator
+https://youtu.be/Rz7Csxjzae0
+
+- AFL Formula Editor
+https://youtu.be/fMZsx3CzVls
+
+- Creating your own indicators01 (Param function,Color&Style)
+https://youtu.be/ZFJo3FO3b1E
+
+- Creating your own indicators02 (TA function)
+https://youtu.be/SgRBRm3fZic
+
+- Creating your own indicators03 (Plot,PlotText,Plotshape)
+https://youtu.be/9iRvmoLxYDw
+
+- Creating your own indicators04 (Buy&Sell Ribbon, MA CrossOver)
+https://youtu.be/rEfmWJOEB24
+
+- Creating your own indicators05 (Mulit Timeframe function)
+https://youtu.be/N_DrK9TV3ho
+
+
+-------------------------------------
+Ebook
+-------------------------------------
+- เรียนหุ้นจากหนัง 1
+
+- เรียนหุ้นจากหนัง 2
+https://goo.gl/n4Doyh
+- Trader's Journal
+https://goo.gl/BnYCA8
+
+
