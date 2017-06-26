@@ -1,0 +1,3 @@
+array = ROC( C, 14 );
+SetGradientFill(  colorGreen /*top*/, colorRed /*bottom*/, 0 /*baseline level*/, GetChartBkColor() /*baseline color */); 
+Plot( array, "GROC", colorLightOrange, styleLine | styleGradient, Null, Null, 0, -1  );

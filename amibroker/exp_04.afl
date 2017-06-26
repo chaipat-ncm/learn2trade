@@ -1,0 +1,8 @@
+Buy=Cross(MACD(),Signal()) ;
+Sell=Cross(Signal(), MACD());
+Filter=Buy OR Sell ;
+//-----------------
+AddColumn( DateTime(), "Date", formatDateTime );
+AddColumn( IIf( Buy, 66, 83 ), "Signal", formatChar );
+AddColumn( MACD(), "MACD", 1.4 , IIf( MACD() > 0, colorGreen, colorRed ) );
+AddColumn( signal(), "Signal", 1.4 );

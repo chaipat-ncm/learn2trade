@@ -1,0 +1,30 @@
+Length =20;
+SD =1.0;
+//-------------------------------------------------
+sbbLength = Length/2;
+sbbavg = EMA(Close, sbbLength);
+sbbStDevValues = StDev(Close, sbbLength);
+sbbUpper = sbbavg + (SD * sbbStDevValues);
+sbbLower = sbbavg - (SD  *sbbStDevValues);
+diffs = sbbUpper  - sbbLower;
+
+bbLength = Length;
+bbavg = EMA(Close, Length);
+bbStDevValues = StDev(Close, bbLength);
+bbUpper = bbavg  +( SD * bbStDevValues);
+bbLower = bbavg  - (SD * bbStDevValues);
+diffl = bbUpper - bbLower;
+//-----------------------------------------
+  rate =  diffs/diffl; 
+ total =  diffs-diffl; 
+BBBreakout = total >0 AND close > sbbUpper AND volume > ema( volume, 20 )  ;
+Filter = BBBreakout;
+  //-----------------------------------------
+AddColumn(BBBreakout, "BB Breakout", 1, colorWhite, IIf(BBBreakout==1, colorRed, colorWhite));
+AddColumn( rate, "Diff Ratio", 1.4 , IIf( rate> 1, colorGreen, colorRed ) );
+AddColumn( Close, "Close" ); 
+rank = PercentRank( Close, 100 ); 
+Color = ColorHSB( rank * 64/100, 255, 255 ); 
+AddColumn( rank, "percent rank", 1.2, colorDefault, Color, -1, rank );
+AddColumn(Volume,"Volume",1.0);
+SetSortColumns(-2);

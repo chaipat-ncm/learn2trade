@@ -1,0 +1,2 @@
+dynamic_color = IIf( MACD() > 0, colorGreen, colorRed );
+ Plot( MACD(), "My MACD", dynamic_color, styleHistogram | styleThick  );

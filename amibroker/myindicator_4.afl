@@ -1,0 +1,11 @@
+
+Plot(C,"Price", colorYellow, styleLine );
+Plot(MA(C,20),"MA20", colorRed ); 
+
+ Buy=Cross( C, MA(C,20 ) ); 
+ Sell= Cross( MA( C, 20 ), C ); 
+ for( i = 0; i < BarCount; i++ ) {
+  if( Buy[i] ) PlotText( "Buy\n@" + C[ i ], i, L[ i ], colorGreen );
+   if( Sell[i] ) PlotText( "Sell\n@" + C[ i ], i, H[ i ], colorRed); 
+   } 
+   PlotShapes( Buy * shapeUpArrow + Sell * shapeDownArrow, IIf( Buy, colorGreen, colorRed ) ); 

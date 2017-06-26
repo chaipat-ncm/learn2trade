@@ -1,0 +1,6 @@
+// Plot price plot and its moving average 
+Plot( Close, "Price", IIf( Close > Open, colorGreen, colorRed ), styleBar | styleThick ); 
+Plot( MA( Close, 20 ), "MAC", colorRed ); 
+// Now plot volume and its moving average using left-hand axis scaling 
+Plot( Volume , "Volume", colorBlue, styleLeftAxisScale | styleHistogram | styleThick ); 
+Plot( MA( Volume,15), "MAV", colorLightBlue, styleLeftAxisScale );

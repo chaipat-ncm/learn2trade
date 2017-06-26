@@ -1,0 +1,7 @@
+filter = close > 50;
+//--------------------------------------------
+AddColumn(Open,"Open",1.4);
+AddColumn(High,"High",1.4);
+AddColumn(Low,"Low",1.4);
+AddColumn(Close,"Close",1.4);
+AddColumn(Volume,"Volume",1.0);

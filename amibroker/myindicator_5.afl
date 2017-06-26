@@ -1,0 +1,4 @@
+Plot(C,"Price", colorYellow, styleLine );
+Plot(MA(C,20),"MA20", colorRed ); 
+Condition = Close > MA( Close,20 );
+Plot( 2,"Ribbon",IIf( Condition , colorGreen, colorRed ),styleOwnScale|styleArea|styleNoLabel, 0, 100);

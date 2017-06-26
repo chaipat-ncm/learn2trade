@@ -1,0 +1,4 @@
+filter = volume > 1.3 * ema( volume, 40 ) AND close >= 50 AND close <100;
+//---------------
+AddColumn(Close,"Close",1.4,IIF( ROC(C, 1 ) > 0, colorGreen, colorRed ));
+AddColumn(Volume,"Volume",1.0);

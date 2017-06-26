@@ -1,0 +1,11 @@
+filter = close > ma( close, 20 ); 
+//----------------
+AddColumn( macd(), "MACD", 1.4 );
+AddColumn( signal(), "Signal", 1.4 );
+AddColumn( adx(), "ADX", 1.4 );
+AddColumn( rsi(), "RSI", 1.4 );
+AddColumn( roc( close, 15 ), "ROC(15)", 1.4 );
+AddColumn( mfi(), "MFI", 1.4 );
+AddColumn( obv(), "OBV", 1.4 );
+AddColumn( cci(), "CCI", 1.4 );
+AddColumn( ultimate(), "Ultimate", 1.4 ); 

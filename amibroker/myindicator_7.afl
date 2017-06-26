@@ -1,0 +1,23 @@
+_SECTION_BEGIN("DAILY CCI");
+TimeFrameSet(inDaily);
+    CC = CCI(14);
+TimeFrameRestore();
+DAYCCI = TimeFrameExpand(Cc,inDaily);
+Plot(DAYCCI, "DAYCCI", ParamColor( "Color2",  colorCycle ), ParamStyle("Style2")  );
+_SECTION_END();
+ 
+_SECTION_BEGIN("WEEK CCI");
+TimeFrameSet(inWeekly);
+    CC = CCI(14);
+TimeFrameRestore();
+WEEKCCI = TimeFrameExpand(Cc,inWeekly);
+Plot(WEEKCCI, "WEEKCCI", ParamColor( "Color3",  colorCycle ), ParamStyle("Style3")  );
+_SECTION_END();
+ 
+_SECTION_BEGIN("MONTHLY CCI");
+TimeFrameSet(inMonthly);
+    CC = CCI(14);
+TimeFrameRestore();
+MONTHCCI = TimeFrameExpand(Cc,inMonthly);
+Plot(MONTHCCI, "MONTHCCI", ParamColor( "Color4",  colorCycle ), ParamStyle("Style4")  );
+_SECTION_END();

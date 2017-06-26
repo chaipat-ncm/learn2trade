@@ -1,0 +1,6 @@
+Filter=1; 
+//---------------------------
+AddColumn( Close, "Close" ); 
+rank = PercentRank( Close, 100 ); 
+Color = ColorHSB( rank * 64/100, 255, 255 ); 
+AddColumn( rank, "percent rank", 1.2, colorDefault, Color, -1, rank );

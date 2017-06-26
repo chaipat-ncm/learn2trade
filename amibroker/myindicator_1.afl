@@ -1,0 +1,11 @@
+P = ParamField("Price field",-1);
+Periods = Param("Periods", 15, 2, 300, 1 );
+Width = Param("Width%", 2, 0, 10, 0.05 );
+Color = ParamColor("Color", colorCycle );
+Style = ParamStyle("Style", styleLine | styleNoLabel );
+///
+CenterLine = MA( P, Periods );
+Plot( (1 + Width * 0.01) * CenterLine, "%EnvTop" + _PARAM_VALUES(), Color, Style ); 
+Plot( (1 - Width * 0.01) * CenterLine, "%EnvBot" + _PARAM_VALUES(), Color, Style ); 
+
+
