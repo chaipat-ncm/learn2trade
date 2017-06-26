@@ -1,8 +1,0 @@
-FastMA = MA( C, 5 ); 
-SlowMA = MA( C, 20 ); 
-Buy = Cross( FastMA, SlowMA ); 
-Sell = Cross( SlowMA, FastMA ); 
-
-Plot( C, "C", colorBlack, styleCandle ); 
-e = Equity(); 
-Plot( e, "Equity", colorGreen, styleLine | styleOwnScale ); 
