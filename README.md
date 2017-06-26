@@ -70,6 +70,13 @@ https://youtu.be/-OEBAYvU_38
 - ความเจ็บปวดจากการขาดทุน
 https://youtu.be/JNW8dN-_ZZc
 
+- เทรดยังไงไม่ต้องเดา
+https://youtu.be/A-is6NCJdBE
+
+- การสร้างผลกำไรอย่างยั่งยืน
+https://youtu.be/EmJVaBkEnXM
+
+
 
 -------------------------------------
 Mindset
@@ -104,7 +111,7 @@ https://youtu.be/AWhzoF6bqUM
 - Trading for living
 https://youtu.be/Rf8bq22LKCQ
 
--Lessons from the Greatest Stock Traders
+- Lessons from the Greatest Stock Traders
 https://youtu.be/_4HItUzr-nY
 
 - Trade like a business
@@ -215,6 +222,9 @@ https://youtu.be/IViIbCgwCgk
 - Multiple Time Frame Analysis
 https://youtu.be/btQYdZJb1U8
 
+- Cross-sectional momentum
+https://youtu.be/Hkj9Xi3os7Q
+
 
 -------------------------------------
 Money Management
@@ -255,8 +265,9 @@ https://youtu.be/DX34jq9q7OQ
 - What Is Stop-Loss Hunting
 https://youtu.be/S6RCnnaMHko
 
+
 -------------------------------------
-Trading System
+Trading System & Strategies
 -------------------------------------
 - Holy grail trading method
 https://youtu.be/sWeTs0TwFS8
@@ -279,9 +290,6 @@ https://youtu.be/ZPASg_wa6mA
 - Cascading Grid Strategies
 https://youtu.be/CWVQOL6cdSs
 
-- Spreadsheet for Data analysis
-https://youtu.be/mwUD4_lbTUw
-
 - Using Interactive Brokers API with python
 https://youtu.be/Ce02uIb3500
 
@@ -290,6 +298,9 @@ https://youtu.be/ub0B9Ug9oqw
 
 - Recovery Factor(RF) monitor & analysis trading system
 https://youtu.be/BlBWGaR_cWw
+
+- GRID Multi Layer
+https://youtu.be/ubByBQrGE6E
 
 -------------------------------------
 Amibroker Turotial
@@ -351,6 +362,24 @@ https://youtu.be/rEfmWJOEB24
 
 - Creating your own indicators05 (Mulit Timeframe function)
 https://youtu.be/N_DrK9TV3ho
+
+-------------------------------------
+Quantitative Trading 
+-------------------------------------
+- probability theory for trading
+https://youtu.be/NtGQ8X8NuYI
+
+- Global Macro Economic Data Analysis with Python
+https://youtu.be/vVRt80_w6gM
+
+- Using Interactive Brokers API with Python
+https://youtu.be/Ce02uIb3500
+
+- Spreadsheet for Data analysis
+https://youtu.be/mwUD4_lbTUw
+
+- Machine Learning for Trading 
+https://youtu.be/ANVHVMg0rDY
 
 
 -------------------------------------
