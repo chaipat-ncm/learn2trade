@@ -407,6 +407,6 @@ https://goo.gl/CjDZJu
 - Trader's Journal 2016
 https://goo.gl/KY7SwY
 
-- Trader's Journal 2017***
+- Trader's Journal 2017
 https://goo.gl/eKBW8d
 
