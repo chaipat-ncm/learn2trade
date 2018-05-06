@@ -387,6 +387,10 @@ https://youtu.be/ANVHVMg0rDY
 -------------------------------------
 Ebook
 -------------------------------------
+
+- มนุษย์หุ้น 2.0 
+https://goo.gl/rhKXnj
+
 - เรียนหุ้นจากหนัง 1 
 pwd: cwayinvestment2017
 https://goo.gl/6oQREG
