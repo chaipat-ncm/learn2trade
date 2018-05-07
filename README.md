@@ -392,11 +392,13 @@ Ebook
 https://goo.gl/rhKXnj
 
 - เรียนหุ้นจากหนัง 1 
-pwd: cwayinvestment2017
+password: cwayinvestment2017
+
 https://goo.gl/6oQREG
 
 - เรียนหุ้นจากหนัง 2
-pwd: cwayinvestment2017
+password: cwayinvestment2017
+
 https://goo.gl/n4Doyh
 
 - Trader's Journal 2013
