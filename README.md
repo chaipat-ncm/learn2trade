@@ -401,6 +401,9 @@ https://goo.gl/6oQREG
 
 https://goo.gl/n4Doyh
 
+-TED Talk for Trader
+https://www.mebmarket.com/ebook-80128-TED-Talk-for-Trader-
+
 - Trader's Journal 2013
 https://goo.gl/iiLHMm
 
