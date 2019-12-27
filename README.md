@@ -419,3 +419,5 @@ https://goo.gl/eKBW8d
 - Trader's Journal 2018
 https://goo.gl/8oj33a
 
+- Trader's Journal 2019
+https://goo.gl/8oj33a
