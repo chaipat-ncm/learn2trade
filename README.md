@@ -420,4 +420,4 @@ https://goo.gl/eKBW8d
 https://goo.gl/8oj33a
 
 - Trader's Journal 2019
-https://goo.gl/8oj33a
+.
