@@ -13,6 +13,8 @@
 
 - [Amibroker Turotial](#amibroker-turotial)
 
+- [MT4 EA Robot trading Turotial](#ea-turotial)
+
 - [Qauntitative Trading](#quantitative-trading)
 
 [Ebook](#ebook)
@@ -364,6 +366,34 @@ https://youtu.be/rEfmWJOEB24
 
 - Creating your own indicators05 (Mulit Timeframe function)
 https://youtu.be/N_DrK9TV3ho
+
+-------------------------------------
+EA Turotial
+-------------------------------------
+- Introduction to MQL4
+https://youtu.be/NiHvbwTzIO0
+
+- MQL4 Operation
+https://youtu.be/VmMx4axJ_Rw
+
+- MQL4 Function
+https://youtu.be/3m62amOhOr4
+
+- MQL4 Custom indicator
+https://youtu.be/l4eUJq9E0Yk
+
+- Robot trading Expert Adviser(EA)
+https://youtu.be/N6I9IZmuc_M
+https://youtu.be/G0hRlowLO04
+
+- Back Testing
+https://youtu.be/nzLlafXK0uE
+
+- System Optimization
+https://youtu.be/HyimcF75aiE
+
+- System Evaluation
+https://youtu.be/BTTN0BHozgw
 
 -------------------------------------
 Quantitative Trading 
